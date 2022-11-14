@@ -6,212 +6,213 @@ COURSE:4
 
 #START
 #MEASURE 2/16
+#SCROLL 1
 40,
-
+#SCROLL 1.4
 00,
-
+#SCROLL 3
 40,
-
+#SCROLL 0.2
 00,
-
+#SCROLL 2.2
 40,
-
+#SCROLL 1.1
 00,
-
+#SCROLL 1
 40,
-
+#SCROLL 3.5
 00,
-
+#SCROLL 4
 20,
-
+#SCROLL 10
 22,
-
+#SCROLL 2
 20,
-
+#SCROLL 1.8
 22,
-
+#SCROLL 2.3
 20,
-
+#SCROLL 0.4
 22,
-
+#SCROLL 1.07
 20,
-
+#SCROLL 2
 22,
-
+#SCROLL 2.5
 20,
-
+#SCROLL 3
 22,
-
+#SCROLL 1.2
 20,
-
+#SCROLL 1.3
 22,
-
+#SCROLL 1.4
 20,
-
+#SCROLL 1.5
 20,
-
+#SCROLL 1.6
 20,
-
+#SCROLL 10
+00,
+#SCROLL 1.7
+10,
+#SCROLL 2.4
+11,
+#SCROLL 1.8
+10,
+#SCROLL 1.9
+11,
+#SCROLL 2
+10,
+#SCROLL 0.9
+11,
+#SCROLL 0.8
+10,
+#SCROLL 0.7
+11,
+#SCROLL 2
+10,
+#SCROLL 5
+11,
+#SCROLL 0.6
+10,
+#SCROLL 32
+11,
+#SCROLL 0.3
+10,
+#SCROLL 0.0001
+10,
+#SCROLL 1
+10,
+#SCROLL 3
+00,
+#SCROLL 1.9
+10,
+#SCROLL 2.4
+11,
+#SCROLL 1.2
+10,
+#SCROLL 0.6
+11,
+#SCROLL 0.33
+10,
+#SCROLL 0.01
+11,
+#SCROLL 15
+10,
+#SCROLL 1.8
+11,
+#SCROLL 2
+10,
+#SCROLL 0.5
+10,
+#SCROLL 0.3
+10,
+#SCROLL 1.6
+10,
+#SCROLL 3.4
+10,
+#SCROLL 1.1
+00,
+#SCROLL 2.2
+10,
+#SCROLL 0.5
+10,
+#SCROLL 0.2
+00,
+#SCROLL 0.9
+10,
+#SCROLL 0.3
+10,
+#SCROLL 2.3
+00,
+#SCROLL 2.8
+10,
+#SCROLL 0.6
+10,
+#SCROLL 4
+00,
+#SCROLL 2.2
+10,
+#SCROLL 0.001
+10,
+#SCROLL 0.01
+00,
+#SCROLL 0.1
+11,
+#SCROLL 1
+10,
+#SCROLL 10
+10,
+#SCROLL 5
+00,
+#SCROLL 2.5
+11,
+#SCROLL 1.25
+10,
+#SCROLL 0.625
+10,
+#SCROLL 22
+11,
+#SCROLL 3.2
+10,
+#SCROLL 1
+10,
+#SCROLL 5
+11,
+#SCROLL 3.7
+10,
+#SCROLL 1.9
+10,
+#SCROLL 5.2
+11,
+#SCROLL 4.3
+10,
+#SCROLL 3.2
+10,
+#SCROLL 2
+11,
+#SCROLL 1.1
+10,
+#SCROLL 0.001
+10,
+#SCROLL 1.582
+00,
+#SCROLL 1.11
+11,
+#SCROLL 1.3
+10,
+#SCROLL 2.2
+10,
+#SCROLL 5
+11,
+#SCROLL 3
+10,
+#SCROLL 3.1
+10,
+#SCROLL 66
+11,
+#SCROLL 7
+10,
+#SCROLL 1.7
+10,
+#SCROLL 3.2
+11,
+#SCROLL 2.6
+10,
+#SCROLL 2.1
+10,
+#SCROLL 22
+11,
+#SCROLL 1.1
+10,
+#SCROLL 0.01
+10,
+#SCROLL 5
 00,
 
-10,
 
-11,
-
-10,
-
-11,
-
-10,
-
-11,
-
-10,
-
-11,
-
-10,
-
-11,
-
-10,
-
-11,
-
-10,
-
-10,
-
-10,
-
-00,
-
-10,
-
-11,
-
-10,
-
-11,
-
-10,
-
-11,
-
-10,
-
-11,
-
-10,
-
-10,
-
-10,
-
-10,
-
-10,
-
-00,
-
-10,
-
-10,
-
-00,
-
-10,
-
-10,
-
-00,
-
-10,
-
-10,
-
-00,
-
-10,
-
-10,
-
-00,
-
-11,
-
-10,
-
-10,
-
-00,
-
-11,
-
-10,
-
-10,
-
-11,
-
-10,
-
-10,
-
-11,
-
-10,
-
-10,
-
-11,
-
-10,
-
-10,
-
-11,
-
-10,
-
-10,
-
-00,
-
-11,
-
-10,
-
-10,
-
-11,
-
-10,
-
-10,
-
-11,
-
-10,
-
-10,
-
-11,
-
-10,
-
-10,
-
-11,
-
-10,
-
-10,
-
-00,
-
-
-
+#SCROLL 1
 40,
 
 00,
