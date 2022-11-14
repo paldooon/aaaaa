@@ -1,11 +1,11 @@
 TITLE:皇龍烈火
-BPM:300
+BPM:600
 WAVE:皇龍烈火.ogg
 LEVEL:15
 COURSE:4
 
 #START
-
+#SCROLL 1/4
 40,
 
 00,
